@@ -1,0 +1,10 @@
+Empece el quiz creando las carpetas y dentro de ellas los archivos,
+ primero trbaje en el html creando varios div y a cada uno un class, también cree el botón ahí.
+En el js comence mencionandolos. Hice un for, if, funtion, evento de escucha, math.random para poder
+ jugar con la máquina, y también hice unos para no dejar sobre escribir.
+ Para la validación de gane hice un for, funtion y if.
+ Y para el botón reiniciar hice un evento de escucha y utilice location.reload.
+ Luego le di un poco de diseño en el css con los id y class que había realizado.
+ Todos los días por las mañanas enviaba mi reporte diario por slack.
+ Realice mi trello, y por úlimo mi formato txt.
+ 
